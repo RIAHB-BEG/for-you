@@ -18,7 +18,7 @@ export default function HomeLayout()  {
 
 
     <Outlet></Outlet>
-    <div className="mt-20">
+    <div className="mt-40">
        <Footer></Footer>  
     </div>
    
